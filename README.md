@@ -3,7 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF748&width=435&lines=Read.+Learn.+Code.+Repeat!" alt="Typing SVG" /></a>
 
 
-[Code IT challenge certificate.pdf](https://github.com/guillermochristopher/guillermochristopher/files/13250030/Code.IT.challenge.certificate.pdf)
+Code IT Challenge Winner.
+![Screenshot 2023-12-06 at 19-12-29 PowerPoint Presentation - Code IT challenge certificate (1) pdf](https://github.com/guillermochristopher/guillermochristopher/assets/61841721/616225d3-9b5e-410a-846a-87e5543207ee)
 
 <!--
 **guillermochristopher/guillermochristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
